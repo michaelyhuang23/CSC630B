@@ -1,0 +1,21 @@
+queue
+	ab
+	abstract
+		class
+		peek
+		pop
+		push
+	accessors
+	constructors
+	for handling nested structures
+		no-args
+		
+		overloaded
+		
+		
+	methods
+	modifiers
+stack
+	private
+	public 
+	static
